@@ -5,6 +5,8 @@ public class Main {
 		
 		for (int i = 0; i < 1000; i++) 
 			System.out.print(i + ", ");
+		
+		System.out.println("test");
 	}
 
 }
