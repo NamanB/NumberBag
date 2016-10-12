@@ -7,6 +7,7 @@ public class Main {
 			System.out.print(i + ", ");
 		
 		System.out.println("test");
+		System.out.println("This has worked now");
 	}
 
 }
